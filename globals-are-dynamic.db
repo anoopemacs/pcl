@@ -1,0 +1,8 @@
+this will be printed to file: #<PATHNAME (with no namestring)
+                                         :HOST #<SB-IMPL::UNIX-HOST
+                                                 {1000404A73}>
+                                         :DEVICE NIL
+                                         :DIRECTORY NIL
+                                         :NAME "globals-are-dynamic.db"
+                                         :TYPE NIL
+                                         :VERSION NIL>

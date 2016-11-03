@@ -1,0 +1,7 @@
+'(norwig says you must learn by doing)
+'(so iOS app devel is one good way)
+'(also learning from masters ACM champs are masters?)
+;;comments are ignored by read
+(+ 1 2 3)
+;;If 10,000 hrs; 12 hrs/day were easy
+ ;;everyone would do it and become a master!!!;;;****input****
